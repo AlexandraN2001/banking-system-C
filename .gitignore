@@ -1,0 +1,27 @@
+# VSCode specific files
+.vscode/
+
+# Compilation files
+*.class
+*.log
+
+# Dependency files
+node_modules/
+target/
+build/
+
+# Operating system configuration files
+.DS_Store
+Thumbs.db
+
+# JetBrains IDE files (IntelliJ, PyCharm, etc.)
+.idea/
+
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment files
+venv/
+.env/
